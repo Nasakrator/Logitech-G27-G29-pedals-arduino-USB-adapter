@@ -17,6 +17,10 @@ A0, A1, A2 are yours pins on arduino, so if you have different ones, change them
 
 ## FAQ
 
+#### Why my pedals generates random values after connecting to pc?
+
+Every time you plug arduino to computer, you have to press each pedal and release, because they need to calibrate.
+
 #### Which pedals works?
 
 This code works with G29 pedals and G27, on G25 I didn't tested.
